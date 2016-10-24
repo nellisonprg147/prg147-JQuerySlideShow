@@ -1,0 +1,48 @@
+@charset "UTF-8";
+.header{
+    background-color: white;
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+    width: 960px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+body {
+    background-image: url("images/grass.jpg");
+    font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+}
+
+.container {
+    background-color: white;
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+    width: 960px;
+    padding: 10px;
+}
+
+#slides{
+    display:none;
+
+}
+
+footer{
+    text-align: center;
+}
+
+#caption{
+    text-align: center;
+}
+
+#slide{
+    display: block;
+    max-width: 400px;
+    margin: 10px auto;
+    height: auto;
+    cursor: pointer;
+}
+
+
+
